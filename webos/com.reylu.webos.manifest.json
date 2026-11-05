@@ -1,15 +1,14 @@
 {
   "id": "com.reylu.webos",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "type": "web",
   "title": "REYLU",
-  "appDescription": "Тестовая версия: каталог и пульт. Плеер в разработке.",
-  "description": "Начальная версия REYLU для LG webOS. Каталог, поиск, фильтры и управление пультом. **Воспроизведение видео пока не реализовано.** На телевизоре LG ещё не проверено.",
+  "appDescription": "REYLU 0.2.1 — проверка на LG",
+  "description": "Проверочная версия REYLU 0.2.1 для LG webOS: каталог, поиск, фильтры, вход, плеер и управление пультом. Проверки на Linux и в браузере пройдены. Запуск на настоящем LG ещё предстоит проверить.",
   "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
-  "sourceUrl": "https://github.com/warrior-ws/reylu-releases/tree/main/webos",
   "rootRequired": false,
-  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.1.0_all.ipk",
+  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.1_all.ipk",
   "ipkHash": {
-    "sha256": "b9d0c79387fb6ad51a4490f718647f5117eaeba5b16a3a6b88f0d5d3b75ca5c2"
+    "sha256": "6fa680449bf1d806cc69d1700f5e573366fb831a0e2580c02c9b0e40b6ac10fb"
   }
 }
