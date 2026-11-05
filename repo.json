@@ -11,7 +11,7 @@
       "title": "REYLU",
       "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
       "manifestUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos.manifest.json",
-      "description": "Начальная версия REYLU для LG webOS. Каталог, поиск, фильтры и управление пультом. **Воспроизведение видео пока не реализовано.** На телевизоре LG ещё не проверено."
+      "description": "Проверочная версия REYLU 0.2.1 для LG webOS: каталог, поиск, фильтры, вход, плеер и управление пультом. Проверки на Linux и в браузере пройдены. Запуск на настоящем LG ещё предстоит проверить."
     }
   ]
 }
