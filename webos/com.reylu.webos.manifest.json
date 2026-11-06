@@ -1,14 +1,14 @@
 {
   "id": "com.reylu.webos",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "type": "web",
   "title": "REYLU",
   "appDescription": "REYLU для LG webOS",
-  "description": "REYLU 0.2.12: фильтры открываются по OK, Down выбирает фильм; подъём Главной, навигация актёров, рамки трейлера/настроек/серий, удаление активной загрузки и уведомления на 10 секунд. Согласованный размер ×1,5 сохранён. Добавлен экспериментальный системный PiP поверх Главной LG.",
+  "description": "REYLU 0.2.13: фильтры открываются по OK, Down выбирает фильм; подъём Главной, навигация актёров, рамки трейлера/настроек/серий, удаление активной загрузки и уведомления на 10 секунд. Согласованный размер ×1,5 сохранён. Исправлена установка системного PiP, рамки актёров; облегчён интерфейс для старых LG.",
   "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
   "rootRequired": false,
-  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.12_all.ipk",
+  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.13_all.ipk",
   "ipkHash": {
-    "sha256": "cb4cf0e0c0a23e8e68708a5d7a821bdcbe217219246fd49ceca962b57d427264"
+    "sha256": "509bcc01bdcef7155dfbca61d39e73c229529e783611aa0bd775a57a28a386be"
   }
 }
