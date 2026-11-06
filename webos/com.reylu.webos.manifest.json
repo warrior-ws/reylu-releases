@@ -1,14 +1,14 @@
 {
   "id": "com.reylu.webos",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "type": "web",
   "title": "REYLU",
-  "appDescription": "REYLU 0.2.4 — Android TV 0.2.25, ×1,5",
-  "description": "REYLU 0.2.4: дизайн Android 0.2.25 TV, сезоны слева и серии справа, без глобальных служебных строк. Размер ×1,5 сохранён.",
+  "appDescription": "REYLU 0.2.5 — Android TV 0.2.26 и PC-плеер 0.2.35",
+  "description": "REYLU 0.2.5: Android 0.2.26 TV, плеер и панели PC 0.2.35; прокрутка Magic Remote, исправления интерфейса, закрытие панелей нажатием снаружи. Утверждённый размер ×1,5 сохранён.",
   "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
   "rootRequired": false,
-  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.4_all.ipk",
+  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.5_all.ipk",
   "ipkHash": {
-    "sha256": "0bb31a301e3f10571c9f0a14f11d49bac295d284ce5bc79de490f42a5c2b62a8"
+    "sha256": "29a84e4b6512fcf60c7d6a9ba17888c076272c7229f91a2a13b2266d98793744"
   }
 }
