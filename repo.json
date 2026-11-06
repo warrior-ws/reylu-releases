@@ -11,7 +11,7 @@
       "title": "REYLU",
       "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
       "manifestUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos.manifest.json",
-      "description": "REYLU 0.2.4: дизайн Android 0.2.25 TV, сезоны слева и серии справа, без глобальных служебных строк. Размер ×1,5 сохранён."
+      "description": "REYLU 0.2.5: Android 0.2.26 TV, плеер и панели PC 0.2.35; прокрутка Magic Remote, исправления интерфейса, закрытие панелей нажатием снаружи. Утверждённый размер ×1,5 сохранён."
     }
   ]
 }
