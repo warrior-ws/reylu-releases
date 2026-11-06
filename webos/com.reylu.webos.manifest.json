@@ -1,14 +1,14 @@
 {
   "id": "com.reylu.webos",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "type": "web",
   "title": "REYLU",
-  "appDescription": "REYLU 0.2.5 — Android TV 0.2.26 и PC-плеер 0.2.35",
-  "description": "REYLU 0.2.5: Android 0.2.26 TV, плеер и панели PC 0.2.35; прокрутка Magic Remote, исправления интерфейса, закрытие панелей нажатием снаружи. Утверждённый размер ×1,5 сохранён.",
+  "appDescription": "REYLU для LG webOS",
+  "description": "REYLU 0.2.7: установка, обновление и запуск TorrServer для LG из webOSappClub через Homebrew Channel; управление доступно из плеера и настроек. Согласованные размеры ×1,5 сохранены.",
   "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
   "rootRequired": false,
-  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.5_all.ipk",
+  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.7_all.ipk",
   "ipkHash": {
-    "sha256": "29a84e4b6512fcf60c7d6a9ba17888c076272c7229f91a2a13b2266d98793744"
+    "sha256": "217bc7eafd4d2c01eaaab833beebc8d2dae5ceb17fa7bff3bdce82324779593f"
   }
 }
