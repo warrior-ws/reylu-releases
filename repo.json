@@ -11,7 +11,7 @@
       "title": "REYLU",
       "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
       "manifestUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos.manifest.json",
-      "description": "REYLU 0.2.2: весь интерфейс ТВ увеличен в 3 раза — текст, иконки, кнопки, панели и меню. Новый масштаб подготовлен для проверки на LG."
+      "description": "REYLU 0.2.4: дизайн Android 0.2.25 TV, сезоны слева и серии справа, без глобальных служебных строк. Размер ×1,5 сохранён."
     }
   ]
 }
