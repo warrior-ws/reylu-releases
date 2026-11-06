@@ -1,14 +1,14 @@
 {
   "id": "com.reylu.webos",
-  "version": "0.2.9",
+  "version": "0.2.11",
   "type": "web",
   "title": "REYLU",
   "appDescription": "REYLU для LG webOS",
-  "description": "REYLU 0.2.9: навигация пультом по зонам, полные мгновенные рамки фокуса, условная кнопка Назад; две лишние иконки плеера убраны. Согласованный размер ×1,5 сохранён.",
+  "description": "REYLU 0.2.11: выделение только превью всех карточек Продолжить просмотр на Главной; стабильный фокус в карточках и сериях, навигация пультом, выключение TorrServer, установка через Homebrew Channel, отображение доступных обновлений, выделение списков, подсказка микрофона и пауза по нажатию. Согласованный размер ×1,5 сохранён.",
   "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
   "rootRequired": false,
-  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.9_all.ipk",
+  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.11_all.ipk",
   "ipkHash": {
-    "sha256": "21d434342b5c4efa1399b210e188031d3f1103bd91c4bac10f48a4319f022228"
+    "sha256": "c0240caff676e51245bcdc2e8acb8f59f89ca7120f43ce5ab2cea964197091dc"
   }
 }
