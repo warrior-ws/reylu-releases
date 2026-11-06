@@ -1,14 +1,14 @@
 {
   "id": "com.reylu.webos",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "type": "web",
   "title": "REYLU",
-  "appDescription": "REYLU 0.2.2 — крупный интерфейс ТВ ×3",
-  "description": "REYLU 0.2.2: весь интерфейс ТВ увеличен в 3 раза — текст, иконки, кнопки, панели и меню. Новый масштаб подготовлен для проверки на LG.",
+  "appDescription": "REYLU 0.2.4 — Android TV 0.2.25, ×1,5",
+  "description": "REYLU 0.2.4: дизайн Android 0.2.25 TV, сезоны слева и серии справа, без глобальных служебных строк. Размер ×1,5 сохранён.",
   "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
   "rootRequired": false,
-  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.2_all.ipk",
+  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.4_all.ipk",
   "ipkHash": {
-    "sha256": "0fe94108348de6ed3b5c13ad6bd9a22e1ad0e95a84f68c1c35a4aac5f03585b2"
+    "sha256": "0bb31a301e3f10571c9f0a14f11d49bac295d284ce5bc79de490f42a5c2b62a8"
   }
 }
