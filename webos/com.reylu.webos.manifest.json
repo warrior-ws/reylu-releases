@@ -1,14 +1,14 @@
 {
   "id": "com.reylu.webos",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "type": "web",
   "title": "REYLU",
-  "appDescription": "REYLU 0.2.1 — проверка на LG",
-  "description": "Проверочная версия REYLU 0.2.1 для LG webOS: каталог, поиск, фильтры, вход, плеер и управление пультом. Проверки на Linux и в браузере пройдены. Запуск на настоящем LG ещё предстоит проверить.",
+  "appDescription": "REYLU 0.2.2 — крупный интерфейс ТВ ×3",
+  "description": "REYLU 0.2.2: весь интерфейс ТВ увеличен в 3 раза — текст, иконки, кнопки, панели и меню. Новый масштаб подготовлен для проверки на LG.",
   "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
   "rootRequired": false,
-  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.1_all.ipk",
+  "ipkUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos_0.2.2_all.ipk",
   "ipkHash": {
-    "sha256": "6fa680449bf1d806cc69d1700f5e573366fb831a0e2580c02c9b0e40b6ac10fb"
+    "sha256": "0fe94108348de6ed3b5c13ad6bd9a22e1ad0e95a84f68c1c35a4aac5f03585b2"
   }
 }
