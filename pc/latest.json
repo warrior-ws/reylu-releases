@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "repository": "warrior-ws/reylu-releases",
+  "channel": "windows-x64",
+  "version": "0.2.36",
+  "installer": {
+    "assetName": "REYLU-Setup-0.2.36-x64.exe",
+    "kind": "nsis",
+    "size": 228364306,
+    "sha256": "534050794a74267d945d26e040a2abe89c1d9f9fc69a27b672763f9b21c2a340",
+    "sha512": "rN4igniwkYD92pJ9XhC1qr303AggOg9/ih4S/bBiH7K5u1rL/9sYscTXCS4boJI+tyTcTS7zym4FUPLlD+aXqA=="
+  },
+  "parts": [
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part001",
+      "size": 20971520,
+      "sha256": "3f710fd48219c6291fb8217de2ca72e477751b7879cef7ba63fb1225d9e5b30d"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part002",
+      "size": 20971520,
+      "sha256": "89ee5d30706fcd5e702ba0cb553c86675de18bbde9b5e3a6bd77e1abe59589f3"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part003",
+      "size": 20971520,
+      "sha256": "3674fbd57e25910f4cce79c150b399d1c13db5f79b96cd4a6f570ed6ae7edb31"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part004",
+      "size": 20971520,
+      "sha256": "7f5bd9c7d58d0031d4f620a201c8492172ee10b63eb3bcdf3b778e55da005a91"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part005",
+      "size": 20971520,
+      "sha256": "89ad83123e61e4fda3cef76c9db908d01911859eb41ff96a90cec74950a6e09d"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part006",
+      "size": 20971520,
+      "sha256": "d28b7fe10d6d3f4b0ce0420275c2bf7771922d8dfc53ec262213fda52a4f2f61"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part007",
+      "size": 20971520,
+      "sha256": "1fc60186b5e4e2a2023b9164ded0a7b0697028f59d41604b2ebfbef5ee8c0c97"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part008",
+      "size": 20971520,
+      "sha256": "a28c2d3243c79d2a2c8657195b5b3874907df79042e2d548d3aabec4b03780c8"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part009",
+      "size": 20971520,
+      "sha256": "4c4405de666bb9717837b4418ab51d4e05f6de998f294b77d402f27c9c7f9891"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part010",
+      "size": 20971520,
+      "sha256": "a18b45943b407b81c16e2710313f1adecba764f570862f574627abd4b0c815c8"
+    },
+    {
+      "path": "v0.2.36/REYLU-Setup-0.2.36-x64.exe.part011",
+      "size": 18649106,
+      "sha256": "2644f848266d472700f9b56226b9df4517541a7d1085d08b669fe1efdfc6c370"
+    }
+  ]
+}
