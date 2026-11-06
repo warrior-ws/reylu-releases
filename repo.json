@@ -11,7 +11,7 @@
       "title": "REYLU",
       "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
       "manifestUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos.manifest.json",
-      "description": "Проверочная версия REYLU 0.2.1 для LG webOS: каталог, поиск, фильтры, вход, плеер и управление пультом. Проверки на Linux и в браузере пройдены. Запуск на настоящем LG ещё предстоит проверить."
+      "description": "REYLU 0.2.2: весь интерфейс ТВ увеличен в 3 раза — текст, иконки, кнопки, панели и меню. Новый масштаб подготовлен для проверки на LG."
     }
   ]
 }
