@@ -11,7 +11,7 @@
       "title": "REYLU",
       "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
       "manifestUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos.manifest.json",
-      "description": "REYLU 0.2.5: Android 0.2.26 TV, плеер и панели PC 0.2.35; прокрутка Magic Remote, исправления интерфейса, закрытие панелей нажатием снаружи. Утверждённый размер ×1,5 сохранён."
+      "description": "REYLU 0.2.7: установка, обновление и запуск TorrServer для LG из webOSappClub через Homebrew Channel; управление доступно из плеера и настроек. Согласованные размеры ×1,5 сохранены."
     }
   ]
 }
