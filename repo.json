@@ -11,7 +11,7 @@
       "title": "REYLU",
       "iconUri": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/icon.png",
       "manifestUrl": "https://raw.githubusercontent.com/warrior-ws/reylu-releases/main/webos/com.reylu.webos.manifest.json",
-      "description": "REYLU 0.2.11: выделение только превью всех карточек Продолжить просмотр на Главной; стабильный фокус в карточках и сериях, навигация пультом, выключение TorrServer, установка через Homebrew Channel, отображение доступных обновлений, выделение списков, подсказка микрофона и пауза по нажатию. Согласованный размер ×1,5 сохранён."
+      "description": "REYLU 0.2.12: фильтры открываются по OK, Down выбирает фильм; подъём Главной, навигация актёров, рамки трейлера/настроек/серий, удаление активной загрузки и уведомления на 10 секунд. Согласованный размер ×1,5 сохранён. Добавлен экспериментальный системный PiP поверх Главной LG."
     }
   ]
 }
